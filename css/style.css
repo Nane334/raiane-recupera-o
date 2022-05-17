@@ -1,0 +1,12 @@
+body{
+    
+    background-image: url(../img/fundo.jpg);
+    text-align: center;
+    color: brown;
+}
+.card image{
+    height: 250px;
+}
+
+
+ 
